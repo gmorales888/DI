@@ -1,2 +1,1 @@
-# DI
-Repositorio de la asignatura Desarrollo de Interfaces
+# Repositorio de la asignatura Desarrollo de Interfaces
